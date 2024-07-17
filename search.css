@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
+
+.header-logo > img {
+    width: 8%;
+}
+#req{
+    font-family: 'Patrick Hand SC', cursive;
+    display: flex;
+    margin-left: 1500px;
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 25px;
+}
+#bld-search{
+    margin-top: 50px;
+    margin-left: 200px;
+    
+}
+.dvd{
+    display: flex;
+}
+.text{
+    color: black;
+}
+#txt{
+    margin-left: 50px;
+    margin-top: 50px;    
+}
+#txt1{
+    margin-left:525px;
+}
+.call{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: 1px solid #fff;
+    padding: 12px 29px;
+    font-size: 20px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    width: 15.7%;
+    letter-spacing: 1px;
+    height: 8vh;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 525px;
+    margin-bottom: 30px;
+    color: #fff;
+    background: #DC143C;
+    font-family: 'Patrick Hand SC', cursive;
+}
+#avatar{
+    margin-top: 50px;
+    margin-left: 380px;
+    font-size: 20px;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+}
+hr{
+    margin-top: 100px;
+    color: #000;
+}
+#btn{
+    width: 150px;
+    color: #fff;
+    background: #DC143C;
+    font-family: 'Patrick Hand SC', cursive;
+}
+.hero-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: 1px solid #fff;
+    padding: 12px 29px;
+    font-size: 20px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    width: 23.5%;
+    letter-spacing: 1px;
+    height: 8vh;
+    text-align: center;
+    margin-left: 50px;
+    color: #fff;
+    background: #DC143C;
+    font-family: 'Patrick Hand SC', cursive;
+}
+.hero-btn:hover {
+    border: 1px solid #DC143C;
+    background: #DC143C;
+    color: #fff;
+    width: 23.5%;
+}
