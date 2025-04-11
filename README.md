@@ -1,6 +1,10 @@
 # Blood_Daan
 
-Blood Donation System is a PHP-based web project to find blood in your location.
+Blood_Daan is a website where you can easily find your blood in your location. The website works :
+
+1. Register on the website for your blood group and your location.
+2. Find your blood in your location.
+3. You can get any problem resolved with customer care.
 
 ## Introduction
 
@@ -15,14 +19,19 @@ Blood Donation System is a PHP-based web project to find blood in your location.
 9. Browse the file in the directory.
 10. After importing successfully.
     
-## Methodology
+## Features
 
-### 1. **Data File Description**
+![image alt](file:///D:/Tanvir%20Hasan/Softoware%20Class/Final%20Report/3.%20State%20Diagram.png)
 
-The MovieLens dataset contains the following:
-- **Movie Information**: Details of each movie.
-- **User Information**: Details of each user.
-- **User Ratings**: Ratings given by users to various movies on a scale from 1 to 5.
+Easy contact between blood donor and blood recipient through this android application.
+Included:
+
+User Databases
+User Login & Sign up
+Donor Details
+Finding blood group easily
+Finding Near By Hospitals
+Achievements & Rewards
 
 ### 2. **Film Similarity Calculation**
 
