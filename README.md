@@ -19,9 +19,17 @@ Blood_Daan is a website where you can easily find your blood in your location. T
 9. Browse the file in the directory.
 10. After importing successfully.
     
-## Features
+## Save Lives
 
-![image alt](file:///D:/Tanvir%20Hasan/Softoware%20Class/Final%20Report/3.%20State%20Diagram.png)
+![image alt](https://github.com/tanvirhasanjewel/Blood_Daan/blob/main/Image/regphoto.png)
+
+## Website Screenshot
+
+###
+
+![image alt](https://github.com/tanvirhasanjewel/Blood_Daan/blob/main/Image/regphoto.png)
+
+
 
 Easy contact between blood donor and blood recipient through this android application.
 Included:
