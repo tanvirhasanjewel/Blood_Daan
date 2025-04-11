@@ -21,7 +21,7 @@ Blood_Daan is a website where you can easily find your blood in your location. T
     
 ## Save Lives
 
-![image alt](https://github.com/tanvirhasanjewel/Blood_Daan/blob/main/Image/regphoto.png)
+![image alt](https://github.com/tanvirhasanjewel/Blood_Daan/blob/main/Image/blood.jpg)
 
 ## Website Screenshot
 
